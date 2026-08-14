@@ -54,5 +54,3 @@ Contributing member of the OWASP LLM Top 10 since v0.5 and the agentic AI securi
 ## Say hi
 
 Happy to talk about agent security, policy enforcement, or whatever cloud security thing is currently bugging you. [hi@adeshgairola.com](mailto:hi@adeshgairola.com) or [LinkedIn](https://www.linkedin.com/in/adeshgairola/).
-
-- A
